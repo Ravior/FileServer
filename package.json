@@ -1,0 +1,26 @@
+{
+  "name": "FileServer",
+  "version": "0.1.2",
+  "description": "File Server System, based on NodeJS",
+  "keywords": [
+    "File Server",
+    "Nodejs"
+  ],
+  "author": {
+    "name": "ravior",
+    "email": "ravior@gitlib.com"
+  },
+  "main": "app.js",
+  "scripts":{
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.oschina.net/ravior/FileServer.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "http://git.oschina.net/ravior/FileServer/issues"
+  },
+  "homepage": "http://git.oschina.net/ravior/FileServer"
+}
